@@ -1,0 +1,24 @@
+
+@import url('https://fonts.google.com/specimen/Fira+Sans?query=fira+sans');
+
+ body{
+    /*background-color: rgb(red, rgb(4, 67, 4), blue);*/
+    font-family: "Fira sans",sans-serif;
+    background-color: rgb(255,255,21);
+
+    /*font-size:30px;*/
+
+}
+table,th,td{
+    border: 5px solid white;
+
+}
+table{
+   border: 10px solid black;
+   background-color: rgb(255,43,21);
+   padding-right: 50px;
+   padding-left: 50px;
+   padding-top: 50px;
+   padding-bottom: 50px;
+}
+
